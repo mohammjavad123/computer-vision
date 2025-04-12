@@ -4,7 +4,7 @@ This project explores the use of **Conditional Generative Adversarial Networks (
 
 > 📄 **Full Report Available**  
 > For complete details, methodology, loss functions, results, and architecture diagrams, please refer to the report:  
-> 👉 **[Download NLP_project.pdf](./Image_Colorization_using_Conditional_Generative_Adversarial_Networks.pdf)**
+> 👉 **[Download Image_Colorization.pdf](./Image_Colorization_using_Conditional_Generative_Adversarial_Networks.pdf)**
 
 ---
 
